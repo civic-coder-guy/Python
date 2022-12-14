@@ -26,3 +26,5 @@ while n > 0:<br>
   print(n)<br>
   n = n - 1<br>
 print('Houston we have lift off!')<br>
+
+Sequential, Repeated and Conditional Code.
